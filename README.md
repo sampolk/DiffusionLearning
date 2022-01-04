@@ -38,8 +38,8 @@ Other publicly available hyperspectral images (Indian Pines, Jasper Ridge) are n
 
 If MMS clustering toolboxes are not in one's path, comparisons against MMS clustering performed in article 1. will automatically be skipped. To run comparisons against MMS clustering, the following toolboxes, written by Zhijing Liu and Mauricio Barahona, must be added to one's path:
 
-    https://github.com/barahona-research-group/GraphBasedClustering
-    https://wwwf.imperial.ac.uk/~mpbara/Partition_Stability/
+- https://github.com/barahona-research-group/GraphBasedClustering
+- https://wwwf.imperial.ac.uk/~mpbara/Partition_Stability/
 
 Users are free to modify the Multiscale Diffusion Clustering toolbox as they wish. If you find it useful or use it in any publications, please cite the following papers:
 
