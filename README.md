@@ -51,6 +51,7 @@ Users are free to modify the Multiscale Diffusion Clustering toolbox as they wis
 - Polk, S. L., Cui, Kangning, Plemmons, R. J., & Murphy, J. M. "Active Diffusion and VCA-Assisted Image Segmentation of Hyperspectral Images." _To Appear_
 - Polk, S. L., Cui, Kangning, Plemmons, R. J., & Murphy, J. M. "Active Diffusion and VCA-Assisted Image Segmentation of Hyperspectral Images." _To Appear_
 - Polk, S. L., Chan, A. H. A., Cui, Kangning, Plemmons, R. J., Coomes, D. A., & Murphy, J. M. "Unsupervised detection of ash dieback disease (\emph{Hymenoscyphus fraxineus}) using diffusion-based hyperspectral image clustering" _To Appear_
+
 Please write with any questions: samuel.polk@tufts.edu
 
 (c) Copyright Sam L. Polk, Tufts University, 2022.
