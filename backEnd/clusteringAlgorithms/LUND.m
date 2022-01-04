@@ -1,4 +1,4 @@
-function [C, K, Dt] = LearningbyUnsupervisedNonlinearDiffusion_large(X, Hyperparameters, t, G, p)
+function [C, K, Dt] = LUND(X, Hyperparameters, t, G, p)
 %{
  - This function produces a structure with multiscale clusterings produced
    with the LUND algorithm, presented in the following paper. 
@@ -38,8 +38,8 @@ email: samuel.polk@tufts.edu
 if ~isfield(Hyperparameters, 'NEigs')
     Hyperparameters.NEigs = size(G.EigenVecs,2);
 end
-if ~isfield(Hyperparameters, '')
-    Hyperparameters.DtNNs = 100;
+if ~isfield(Hyperparameters, 'NumDtNeighbors')
+    Hyperparameters.NumDtNeighbors = min(200, length(X));
 end
 
 n = length(X);

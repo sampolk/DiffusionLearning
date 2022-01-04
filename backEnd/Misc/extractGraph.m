@@ -1,15 +1,31 @@
-function [G,W] = extract_graph_large(X, Hyperparameters, Idx_NN, Dist_NN)
+function [G,W] = extractGraph(X, Hyperparameters, Idx_NN, Dist_NN)
 
 n = length(X); 
 NN = Hyperparameters.DiffusionNN;
 n_eigs = Hyperparameters.NEigs;
 
+if nargin == 2
+    if abs(NN- length(X))/max(NN, length(X))<0.1
+        D = squareform(pdist(X));
+        [DSort, Idx] = sort(D);
+        Dist_NN = DSort(2:end,:)';
+        Idx_NN = Idx(2:end,:)';
+        NN = length(X)-1;
+    else
+        [Idx_NN, Dist_NN] = knnsearch(X,X, 'K', NN+1);
+        Idx_NN = Idx_NN(:,2:end);
+        Dist_NN = Dist_NN(:,2:end);
+    end
+end
 
 if ~isfield(Hyperparameters, 'WeightType')
     Hyperparameters.WeightType = 'adjesency';
 end
+if ~isfield(Hyperparameters, 'SpatialParams')
+    Hyperparameters.SpatialParams = NaN;
+end
 
-if isfield(Hyperparameters.SpatialParams, 'SpatialRadius') 
+if isfield(Hyperparameters.SpatialParams, 'SpatialRadius')  
 
     W = spatial_weight_matrix(X,Hyperparameters);
     
