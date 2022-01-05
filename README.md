@@ -49,7 +49,6 @@ Users are free to modify the Multiscale Diffusion Clustering toolbox as they wis
 -  Polk, S. L. & Murphy, J. M. (2021) "Multiscale Clustering of Hyperspectral Images Through Spectral-Spatial Diffusion Geometry." Proceedings of the 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 4688-4691.
 - Polk, S. L., Cui, Kangning, Plemmons, R. J., & Murphy, J. M. "Clustering Highly Mixed Hyperspectral Images Using Diffusion and VCA-Assisted Image Segmentation." _To Appear_.
 - Polk, S. L., Cui, Kangning, Plemmons, R. J., & Murphy, J. M. "Active Diffusion and VCA-Assisted Image Segmentation of Hyperspectral Images." _To Appear_
-- Polk, S. L., Cui, Kangning, Plemmons, R. J., & Murphy, J. M. "Active Diffusion and VCA-Assisted Image Segmentation of Hyperspectral Images." _To Appear_
 - Polk, S. L., Chan, A. H. A., Cui, Kangning, Plemmons, R. J., Coomes, D. A., & Murphy, J. M. "Unsupervised detection of ash dieback disease (\emph{Hymenoscyphus fraxineus}) using diffusion-based hyperspectral image clustering" _To Appear_
 
 Please write with any questions: samuel.polk@tufts.edu
