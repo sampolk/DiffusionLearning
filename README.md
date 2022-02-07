@@ -26,11 +26,11 @@ The following scripts (in the Experiments folder) generate the relevant experime
 <!-- - D_VIS_demo.m compares the D-VIS algorithm against related hyperspectral image clustering algorithms. This script is used for experiments that appear in article 3.   -->
 - ADVIS_demo.m compares the ADVIS active learning algorithm against the D-VIS clustering algorithm . This script is used for experiments that appear in article 4.
 
-All datasets required for articles 1., 2., and 4. are contained in this repository. All benchmark datasets used in article 1. were obtained from the UCI Machine Learning Repository:
+All datasets required to replicate experiments are contained in this repository. All benchmark datasets used in article 1. were obtained from the UCI Machine Learning Repository:
 
 - https://archive.ics.uci.edu/ml/index.php
 
-Real hyperspectral image data (Salinas A, which was used in articles 1., 2., 3., and 4., and Indian Pines, which was used in 3.) are also contained in this project. Salinas A was from the 2000 IEEE Data Fusion Contest data. Both datasets data is publically available via IEEE.
+Real hyperspectral image data (Salinas A, which was used in articles 1., 2., 3., and 4., and Indian Pines, which was used in article 3.) are also contained in this project. Both datasets data are publically available:
 
 - http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
     
