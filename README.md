@@ -41,14 +41,14 @@ If MMS clustering toolboxes are not in one's path, comparisons against MMS clust
 
 Users are free to modify the Multiscale Diffusion Clustering toolbox as they wish. If you find it useful or use it in any publications, please cite the following papers:
 
-- Polk, S. L., Chan, A. H. A., Cui, Kangning, Plemmons, R. J., Coomes, D. A., & Murphy, J. M. "Unsupervised detection of ash dieback disease (\emph{Hymenoscyphus fraxineus}) using diffusion-based hyperspectral image clustering" _To Appear_
-- Polk, S. L., Cui, Kangning, Plemmons, R. J., & Murphy, J. M. "Active Diffusion and VCA-Assisted Image Segmentation of Hyperspectral Images." _To Appear_
-- Polk, S. L., Cui, Kangning, Plemmons, R. J., & Murphy, J. M. "Clustering Highly Mixed Hyperspectral Images Using Diffusion and VCA-Assisted Image Segmentation." _To Appear_.
-- Murphy, J. M., & Polk, S. L. (2022). "A multiscale environment for learning by diffusion." Applied and Computational Harmonic Analysis, 57, 58-100.
--  Polk, S. L. & Murphy, J. M. (2021) "Multiscale Clustering of Hyperspectral Images Through Spectral-Spatial Diffusion Geometry." Proceedings of the 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 4688-4691.
+- Polk, S. L., Cui, K., Chan, A. H., Coomes, D. A., Plemmons, R. J., & Murphy, J. M. (2023). Unsupervised Diffusion and Volume Maximization-Based Clustering of Hyperspectral Images. Remote Sensing, 15(4), 1053.
+- Polk, S. L., Chan, A. H., Cui, K., Plemmons, R. J., Coomes, D. A., & Murphy, J. M. (2022, July). Unsupervised detection of ash dieback disease (_Hymenoscyphus fraxineus_) using diffusion-based hyperspectral image clustering. In 2022 IEEE International Geoscience and Remote Sensing Symposium (pp. 2287-2290). IEEE.
+- Polk, S. L., Cui, K., Plemmons, R. J., & Murphy, J. M. (2022, July). Active diffusion and VCA-assisted image segmentation of hyperspectral images. In 2022 IEEE International Geoscience and Remote Sensing Symposium (pp. 1364-1367). IEEE.
+- Murphy, J. M., & Polk, S. L. (2022). A multiscale environment for learning by diffusion. Applied and Computational Harmonic Analysis, 57, 58-100.
+- Polk, S. L., & Murphy, J. M. (2021, July). Multiscale clustering of hyperspectral images through spectral-spatial diffusion geometry. In 2021 IEEE International Geoscience and Remote Sensing Symposium (pp. 4688-4691). IEEE.
 - Murphy, J. M., & Maggioni, M. (2019). Spectral–spatial diffusion geometry for hyperspectral image clustering. IEEE Geoscience and Remote Sensing Letters, 17(7), 1243-1247.
 - Maggioni, M., & Murphy, J. M. (2019). Learning by Unsupervised Nonlinear Diffusion. Journal of Machine Learning Research, 20(160), 1-56.
 
-Please write with any questions: samuel.polk@tufts.edu
+Please write with any questions: sam.polk@outlook.com
 
-(c) Copyright Sam L. Polk, Tufts University, 2022.
+(c) Copyright Sam L. Polk, 2024.
