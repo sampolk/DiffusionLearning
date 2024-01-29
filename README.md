@@ -11,10 +11,9 @@ This toolbox allows the implementation of the following diffusion-based clusteri
     
 This package can be used to generate experiments in the following articles:
 
-1. Murphy, J. M., & Polk, S. L. (2022). "A multiscale environment for learning by diffusion." Applied and Computational Harmonic Analysis, 57, 58-100.
-2. Polk, S. L. & Murphy, J. M. (2021) "Multiscale Clustering of Hyperspectral Images Through Spectral-Spatial Diffusion Geometry." Proceedings of the 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 4688-4691.
-3. Polk, S. L., Cui, Kangning, Plemmons, R. J., & Murphy, J. M. "Clustering Highly Mixed Hyperspectral Images Using Diffusion and VCA-Assisted Image Segmentation." _To Appear_.
-4. Polk, S. L., Cui, Kangning, Plemmons, R. J., & Murphy, J. M. "Active Diffusion and VCA-Assisted Image Segmentation of Hyperspectral Images." _To Appear_
+1. Murphy, J. M., & Polk, S. L. (2022). A multiscale environment for learning by diffusion. Applied and Computational Harmonic Analysis, 57, 58-100.
+2. Polk, S. L., & Murphy, J. M. (2021, July). Multiscale clustering of hyperspectral images through spectral-spatial diffusion geometry. In 2021 IEEE International Geoscience and Remote Sensing Symposium (pp. 4688-4691). IEEE.
+3. Polk, S. L., Cui, K., Plemmons, R. J., & Murphy, J. M. (2022, July). Active diffusion and VCA-assisted image segmentation of hyperspectral images. In 2022 IEEE International Geoscience and Remote Sensing Symposium (pp. 1364-1367). IEEE.
 
 The following scripts (in the Experiments folder) generate the relevant experiments:
 
