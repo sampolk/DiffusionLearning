@@ -46,6 +46,4 @@ Users are free to modify the Multiscale Diffusion Clustering toolbox as they wis
 - Murphy, J. M., & Maggioni, M. (2019). Spectral–spatial diffusion geometry for hyperspectral image clustering. IEEE Geoscience and Remote Sensing Letters, 17(7), 1243-1247.
 - Maggioni, M., & Murphy, J. M. (2019). Learning by Unsupervised Nonlinear Diffusion. Journal of Machine Learning Research, 20(160), 1-56.
 
-Please write with any questions: sam.polk@outlook.com
-
 (c) Copyright Sam L. Polk, 2024.
